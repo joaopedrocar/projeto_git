@@ -1,1 +1,2 @@
-Esse é o meu primeiro arquivo criado no git 
+Olá esse projeto ensina você a usar o Git 
+Isso é uma alteração
